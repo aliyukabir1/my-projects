@@ -1,1 +1,1 @@
-this is a todo List app made with react
+this is a todo List app made with Jquery
